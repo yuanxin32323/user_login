@@ -1,0 +1,6 @@
+{
+    "require": {
+        "catfan/medoo": "^1.5",
+        "gamegos/jwt": "^0.1.1"
+    }
+}
